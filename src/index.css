@@ -32,6 +32,8 @@ input{
 
 .container-categories{
   padding: 5px 30px 0;
+  background-color: #efefef;
+  border-top: 1px solid #9e9e9e;
 }
 .container-cards{
   display: grid;
@@ -45,6 +47,7 @@ input{
   /* width: fit-content; */
   /* break-inside: avoid; */
   border: 1px solid lightgray;
+  background-color: white;
 }
 .card p{
   text-align: center;
